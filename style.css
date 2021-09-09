@@ -1,0 +1,74 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1 ,h2{
+    font-size: 40px;
+}
+
+h1, h2, li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pastel1{
+    background-color: #9B5DE5;
+}
+
+.pastel2{
+    background-color: #F15BB5;
+}
+
+.pastel3{
+    background-color: #FEE440;
+}
+
+.pastel4{
+    background-color: #00BBF9;
+}
+
+.pastel5{
+    background-color: #00F5D4;
+}
+
+.fluor1{
+    background-color: rgb(247, 37, 133) ;
+}
+
+.fluor2{
+    background-color: rgb(238, 255, 10);
+}
+
+.fluor3{
+    background-color: rgb(32, 245, 18);
+}
+
+.fluor4{
+    background-color: rgb(255, 174, 16);
+}
+
+.fluor5{
+    background-color: rgb(10, 239, 255);
+}
+
+.vintage1{
+    background-color: hsl(1, 61%, 27%);
+    color: white;
+}
+
+.vintage2{
+    background-color: hsl(37, 42%, 54%);
+}
+
+.vintage3{
+    background-color: hsl(22, 47%, 18%);
+    color: white;
+}
+
+.vintage4{
+    background-color: hsl(25, 57%, 38%);
+}
+
+.vintage5{
+    background-color: hsl(43, 100%, 83%);
+}
+
